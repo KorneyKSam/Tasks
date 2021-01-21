@@ -1,0 +1,13 @@
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\obj\Debug\netcoreapp3.1\Codewars_Task_2.csprojAssemblyReference.cache
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\obj\Debug\netcoreapp3.1\Codewars_Task_2.AssemblyInfoInputs.cache
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\obj\Debug\netcoreapp3.1\Codewars_Task_2.AssemblyInfo.cs
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\obj\Debug\netcoreapp3.1\Codewars_Task_2.csproj.CoreCompileInputs.cache
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\bin\Debug\netcoreapp3.1\Codewars_Task_2.exe
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\bin\Debug\netcoreapp3.1\Codewars_Task_2.deps.json
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\bin\Debug\netcoreapp3.1\Codewars_Task_2.runtimeconfig.json
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\bin\Debug\netcoreapp3.1\Codewars_Task_2.runtimeconfig.dev.json
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\bin\Debug\netcoreapp3.1\Codewars_Task_2.dll
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\bin\Debug\netcoreapp3.1\Codewars_Task_2.pdb
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\obj\Debug\netcoreapp3.1\Codewars_Task_2.dll
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\obj\Debug\netcoreapp3.1\Codewars_Task_2.pdb
+D:\GitHub\CodeWars\Codewars_Task_2(Sum of Numbers)\Codewars_Task_2\obj\Debug\netcoreapp3.1\Codewars_Task_2.genruntimeconfig.cache
